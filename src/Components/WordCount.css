@@ -1,0 +1,23 @@
+.textarea{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.button{
+    box-shadow: none;
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.results{
+    text-align: center;
+    font-weight: bold;
+}
+.title{
+    text-align: center;
+}
